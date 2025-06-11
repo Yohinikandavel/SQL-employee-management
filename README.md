@@ -33,7 +33,6 @@ WHERE JoinDate IS NULL OR Salary = 0;
 
 ### 📂 File: `SQLQuery2.sql`
 
----
 
 ## 🧩 Project 2: Multi-Database SQL Operations
 
@@ -75,7 +74,6 @@ WHERE Duration IN ('3 Months', '6 Months');
 
 ### 📂 File: `SQLQuery1.sql`
 
----
 
 ## 🔍 Bonus: Games Table & Course Management Practice
 
@@ -91,7 +89,6 @@ These offer mini-practice blocks to simulate:
 * Updating records by ID or name
 * Null checks and text pattern logic
 
----
 
 ## 🏁 What You Will Learn
 
@@ -103,7 +100,6 @@ By reviewing or executing these SQL projects, you will strengthen:
 * Pagination and result slicing techniques
 * Hands-on database design in realistic use cases
 
----
 
 ## 🧑‍💻 Developed & Practiced By
 
@@ -112,4 +108,8 @@ By reviewing or executing these SQL projects, you will strengthen:
 📧 [yohinikandavel11@gmail.com](mailto:yohinikandavel11@gmail.com)
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yohini-k-cse-mvit)
+
+## 🏷️ Tags
+
+`#SQL` `#DBMS` `#MySQL` `#EmployeeManagementSystem` `#MiniProjects` `#StudentProject` `#DatabaseDesign` `#LearningSQL` `#WomenInTech`
 
